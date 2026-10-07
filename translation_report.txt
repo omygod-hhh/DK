@@ -1,0 +1,18 @@
+============================================================
+Data Translation Report
+============================================================
+
+Input file: ph_ds_iot_data_all_202603181049.csv
+Output file: translated_data.csv
+Protocol file: NET-DK-M1101-B_DK.xls
+Translation time: 2026-10-07 12:00:39
+
+Statistics:
+  Total rows translated: 1,000,000
+  Field mappings loaded: 1046
+  Unmapped field IDs: 3
+
+Unmapped Field IDs (first 50):
+  - 1000
+  - 2000
+  - 2001
