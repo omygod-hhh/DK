@@ -1,0 +1,62 @@
+============================================================
+Model Suitability Analysis Report
+============================================================
+
+EXECUTIVE SUMMARY
+------------------------------------------------------------
+
+This report analyzes the IoT building data to identify suitable
+models for heating/cooling load prediction and indoor temperature
+forecasting.
+
+KEY FINDINGS:
+1. Time series data with 65 days of history
+2. Temperature data available: ambient, target, display, water in/out
+3. Control data: valve position, compressor speed
+4. 100% data completeness for key fields
+5. Sampling frequency: ~5 minutes
+
+RECOMMENDED MODELS:
+
+1. Temperature Prediction (Short-term)
+   Primary: Prophet or LightGBM
+   - Predict next 1-6 hours indoor temperature
+   - Features: historical temps, valve state, time features
+   - Expected accuracy: ±1-2°C
+
+2. Load Estimation
+   Primary: Physics-based + Regression
+   - Use water temp difference as proxy
+   - Model: Q = f(valve_position, ΔT_water)
+   - Can estimate relative load (not absolute kW without flow)
+
+3. Valve Position Prediction
+   Primary: LightGBM or XGBoost
+   - Predict optimal valve position
+   - Features: temp error, target temp, time of day
+
+4. Anomaly Detection
+   Primary: Isolation Forest, LSTM-AE
+   - Detect equipment faults
+   - Detect abnormal temperature patterns
+
+DATA CHARACTERISTICS:
+- Sampling: ~5 minutes
+- Duration: 65 days
+- Temperature range: -3°C to 93°C (sensor errors at extremes)
+- Valve range: 0-500 (normalized)
+- Data quality: 100% complete
+
+LIMITATIONS:
+- No absolute power/flow measurements for exact load calculation
+- Some fields have extreme values (possible sensor errors)
+- No outdoor weather data (would improve predictions)
+- Building thermal properties unknown
+
+NEXT STEPS:
+1. Data cleaning: filter sensor errors
+2. Feature engineering: create time/rolling features
+3. Baseline model: simple persistence/naive forecast
+4. Model training: start with Prophet/LightGBM
+5. Validation: time-series cross-validation
+6. Deployment: real-time prediction pipeline

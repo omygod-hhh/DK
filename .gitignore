@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+parser*.log
+model_analysis*.log
+
+# Large Data Files - Do not commit to Git
+# Raw data files
+*.csv
+!processed_data/data_statistics.txt
+!processed_data/test_statistics.txt
+!processed_data/data_test_10000.csv
+*.xls
+*.xlsx
+
+# Processed data (large files)
+processed_data/
+!processed_data/*.txt
+!processed_data/*.json
+
+# Features (large files)
+features/
+!features/*.txt
+!features/*.json
+
+# Reports
+reports/
+!reports/*.txt
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/

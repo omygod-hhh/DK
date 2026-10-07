@@ -1,0 +1,10462 @@
+{
+  "2034": {
+    "name_cn": "2#主阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 300.0,
+    "max": 300.0,
+    "mean": 300.0,
+    "mapped": true
+  },
+  "2033": {
+    "name_cn": "1#辅阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2032": {
+    "name_cn": "1#主阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 300.0,
+    "max": 300.0,
+    "mean": 300.0,
+    "mapped": true
+  },
+  "2031": {
+    "name_cn": "主控板输入电压",
+    "name_en": "2031",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 227.4,
+    "max": 237.1,
+    "mean": 233.25714285714287,
+    "mapped": true
+  },
+  "2030": {
+    "name_cn": "当前模式显示温度",
+    "name_en": "2030",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.3,
+    "max": 25.9,
+    "mean": 21.351020408163265,
+    "mapped": true
+  },
+  "2029": {
+    "name_cn": "当前模式目标温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "2028": {
+    "name_cn": "当前模式能调温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.5,
+    "max": 26.1,
+    "mean": 21.567346938775515,
+    "mapped": true
+  },
+  "2027": {
+    "name_cn": "冬季防冻状态",
+    "name_en": "Anti status",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2026": {
+    "name_cn": "静音状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2025": {
+    "name_cn": "参数恢复请求标志",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2024": {
+    "name_cn": "主控程序版本号",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 12.4,
+    "max": 12.4,
+    "mean": 12.4,
+    "mapped": true
+  },
+  "2045": {
+    "name_cn": "2#DSP软件版本",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2044": {
+    "name_cn": "1#DSP软件版本",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2043": {
+    "name_cn": "4#压缩机启动标志位",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2042": {
+    "name_cn": "3#压缩机启动标志位",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2041": {
+    "name_cn": "2#压缩机启动标志位",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2040": {
+    "name_cn": "1#压缩机启动标志位",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2039": {
+    "name_cn": "4#辅阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2038": {
+    "name_cn": "4#主阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 300.0,
+    "max": 300.0,
+    "mean": 300.0,
+    "mapped": true
+  },
+  "2037": {
+    "name_cn": "3#辅阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2036": {
+    "name_cn": "3#主阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 300.0,
+    "max": 300.0,
+    "mean": 300.0,
+    "mapped": true
+  },
+  "2035": {
+    "name_cn": "2#辅阀开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2056": {
+    "name_cn": "环境温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -3.0,
+    "max": 5.1,
+    "mean": 1.5040816326530615,
+    "mapped": true
+  },
+  "2055": {
+    "name_cn": "总出水温度",
+    "name_en": "Total out water temp",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.3,
+    "max": 25.9,
+    "mean": 21.351020408163265,
+    "mapped": true
+  },
+  "2054": {
+    "name_cn": "总回水温度",
+    "name_en": "Total in water temp",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.5,
+    "max": 26.1,
+    "mean": 21.567346938775515,
+    "mapped": true
+  },
+  "2053": {
+    "name_cn": "联网状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2052": {
+    "name_cn": "4G信号强度",
+    "name_en": "signal",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 15.0,
+    "max": 26.0,
+    "mean": 21.653061224489797,
+    "mapped": true
+  },
+  "2051": {
+    "name_cn": "主控程序编码",
+    "name_en": "software code",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 16.3,
+    "max": 163.0,
+    "mean": 130.0673469387755,
+    "mapped": true
+  },
+  "2050": {
+    "name_cn": "线控器密码锁机标记位",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2049": {
+    "name_cn": "机组上电累计时间（低16位）",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2048": {
+    "name_cn": "机组上电累计时间（高16位）",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2047": {
+    "name_cn": "4#DSP软件版本",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2046": {
+    "name_cn": "3#DSP软件版本",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2067": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2100": {
+    "name_cn": "风机2实际转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2066": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2065": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2064": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2063": {
+    "name_cn": "低温限制运行",
+    "name_en": "2063",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2062": {
+    "name_cn": "预热剩余时长",
+    "name_en": "2062",
+    "unit": "′",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2061": {
+    "name_cn": "水位状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 205.0,
+    "max": 261.0,
+    "mean": 215.6734693877551,
+    "mapped": true
+  },
+  "2060": {
+    "name_cn": "水箱温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "2059": {
+    "name_cn": "下回水温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -3270.1,
+    "max": -3270.1,
+    "mean": -3270.1,
+    "mapped": true
+  },
+  "2058": {
+    "name_cn": "出水温度",
+    "name_en": "2058",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.3,
+    "max": 25.9,
+    "mean": 21.351020408163265,
+    "mapped": true
+  },
+  "2057": {
+    "name_cn": "进水温度",
+    "name_en": "2057",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.5,
+    "max": 26.1,
+    "mean": 21.567346938775515,
+    "mapped": true
+  },
+  "2070": {
+    "name_cn": "1#排气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 5.0,
+    "max": 39.5,
+    "mean": 12.385714285714288,
+    "mapped": true
+  },
+  "2078": {
+    "name_cn": "1#压缩机驱动板工作状态",
+    "name_en": "",
+    "unit": "/",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2077": {
+    "name_cn": "1#蒸发温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2076": {
+    "name_cn": "1#冷凝温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "2075": {
+    "name_cn": "1#低压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 7.0,
+    "max": 7.0,
+    "mean": 7.0,
+    "mapped": true
+  },
+  "2074": {
+    "name_cn": "1#高压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "2073": {
+    "name_cn": "1#吸气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -2.2,
+    "max": 1.4,
+    "mean": 0.5265306122448979,
+    "mapped": true
+  },
+  "2072": {
+    "name_cn": "1#吸气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2071": {
+    "name_cn": "1#吸气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -0.1,
+    "max": 6.2,
+    "mean": 3.416326530612245,
+    "mapped": true
+  },
+  "2069": {
+    "name_cn": "1#阀后温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 10.3,
+    "max": 12.7,
+    "mean": 11.56530612244898,
+    "mapped": true
+  },
+  "2068": {
+    "name_cn": "1#翅片温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 1.4,
+    "max": 5.5,
+    "mean": 2.8897959183673474,
+    "mapped": true
+  },
+  "2081": {
+    "name_cn": "1#母线电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 554.5,
+    "max": 576.5,
+    "mean": 569.230612244898,
+    "mapped": true
+  },
+  "2080": {
+    "name_cn": "1#压缩机运行电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2089": {
+    "name_cn": "1#压缩机电机极对数",
+    "name_en": "",
+    "unit": "/",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2088": {
+    "name_cn": "1#压缩机机型码",
+    "name_en": "",
+    "unit": "/",
+    "valid_pct": 49.0,
+    "min": 31.0,
+    "max": 31.0,
+    "mean": 31.0,
+    "mapped": true
+  },
+  "2087": {
+    "name_cn": "1#最大频率限制值",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": -295.36,
+    "max": -295.36,
+    "mean": -295.36000000000007,
+    "mapped": true
+  },
+  "2086": {
+    "name_cn": "1#IPM温度值",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 5.0,
+    "max": 10.0,
+    "mean": 8.16326530612245,
+    "mapped": true
+  },
+  "2085": {
+    "name_cn": "1#降频状态",
+    "name_en": "",
+    "unit": "/",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2084": {
+    "name_cn": "1#输出功率",
+    "name_en": "",
+    "unit": "Kw",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2083": {
+    "name_cn": "1#运行电流值",
+    "name_en": "",
+    "unit": "A",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2082": {
+    "name_cn": "1#输出电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2079": {
+    "name_cn": "1#压缩机设定电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2092": {
+    "name_cn": "1#压缩机累计运行时间",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 49.0,
+    "min": 139.0,
+    "max": 410.0,
+    "mean": 349.16326530612247,
+    "mapped": true
+  },
+  "2091": {
+    "name_cn": "1#压缩机实际频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2090": {
+    "name_cn": "1#压缩机目标频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2012": {
+    "name_cn": "3#故障状态1",
+    "name_en": "3#SystemError1",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2011": {
+    "name_cn": "2#故障状态2",
+    "name_en": "2#SystemError2",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2099": {
+    "name_cn": "风机2目标转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2010": {
+    "name_cn": "2#故障状态1",
+    "name_en": "2#SystemError1",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2098": {
+    "name_cn": "风机1实际转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2097": {
+    "name_cn": "风机1目标转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2096": {
+    "name_cn": "1#排气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -15.3,
+    "max": 13.7,
+    "mean": -8.942857142857141,
+    "mapped": true
+  },
+  "2095": {
+    "name_cn": "1#排气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 30.0,
+    "max": 30.3,
+    "mean": 30.232653061224493,
+    "mapped": true
+  },
+  "2094": {
+    "name_cn": "1#标定环翅差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 10.0,
+    "max": 999.9,
+    "mean": 777.6775510204081,
+    "mapped": true
+  },
+  "2093": {
+    "name_cn": "1#经济器出口温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2009": {
+    "name_cn": "1#故障状态2",
+    "name_en": "1#SystemError2",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2008": {
+    "name_cn": "1#故障状态1",
+    "name_en": "1#SystemError",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2007": {
+    "name_cn": "总系统故障状态2",
+    "name_en": "Total Error2",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2006": {
+    "name_cn": "总系统故障状态1",
+    "name_en": "Total Error1",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2005": {
+    "name_cn": "开关量输入状态2",
+    "name_en": "SW2",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2004": {
+    "name_cn": "开关量输入状态1",
+    "name_en": "SW1",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 100100100100000.0,
+    "max": 100100100100000.0,
+    "mean": 100100100100000.0,
+    "mapped": true
+  },
+  "2003": {
+    "name_cn": "负载输出状态2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 10001000100010.0,
+    "max": 10001000100010.0,
+    "mean": 10001000100010.0,
+    "mapped": true
+  },
+  "2002": {
+    "name_cn": "负载输出状态1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 10100000.0,
+    "max": 10110100.0,
+    "mean": 10102267.346938776,
+    "mapped": true
+  },
+  "2023": {
+    "name_cn": "拨码开关值",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 128.0,
+    "max": 128.0,
+    "mean": 128.0,
+    "mapped": true
+  },
+  "2022": {
+    "name_cn": "当前运行模式",
+    "name_en": "2022",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2021": {
+    "name_cn": "开关机状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2020": {
+    "name_cn": "模块联机故障状态",
+    "name_en": "ModuleConnectError",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2019": {
+    "name_cn": "4#驱动故障状态",
+    "name_en": "4#DriverError",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2018": {
+    "name_cn": "3#驱动故障状态",
+    "name_en": "3#DriverError",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2017": {
+    "name_cn": "2#驱动故障状态",
+    "name_en": "2#DriverError",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2016": {
+    "name_cn": "1#驱动故障状态",
+    "name_en": "1#DriverError",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2015": {
+    "name_cn": "4#故障状态2",
+    "name_en": "4#SystemError2",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2014": {
+    "name_cn": "4#故障状态1",
+    "name_en": "4#SystemError1",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2013": {
+    "name_cn": "3#故障状态2",
+    "name_en": "3#SystemError2",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2155": {
+    "name_cn": "3#压缩机机型码",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 31.0,
+    "max": 31.0,
+    "mean": 31.0,
+    "mapped": true
+  },
+  "2154": {
+    "name_cn": "3#最大频率限制值",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": -295.36,
+    "max": -295.36,
+    "mean": -295.36000000000007,
+    "mapped": true
+  },
+  "2153": {
+    "name_cn": "3#IPM温度值",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 4.0,
+    "max": 11.0,
+    "mean": 8.918367346938776,
+    "mapped": true
+  },
+  "2152": {
+    "name_cn": "3#降频状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2151": {
+    "name_cn": "3#输出功率",
+    "name_en": "",
+    "unit": "Kw",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2150": {
+    "name_cn": "3#运行电流值",
+    "name_en": "",
+    "unit": "A",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2149": {
+    "name_cn": "3#输出电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2148": {
+    "name_cn": "3#母线电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 552.4,
+    "max": 574.5,
+    "mean": 566.6408163265306,
+    "mapped": true
+  },
+  "2147": {
+    "name_cn": "3#压缩机运行电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2146": {
+    "name_cn": "3#压缩机设定电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2145": {
+    "name_cn": "3#压缩机驱动板工作状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2166": {
+    "name_cn": "风机6目标转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2165": {
+    "name_cn": "风机5实际转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2164": {
+    "name_cn": "风机5目标转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2163": {
+    "name_cn": "3#排气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 16.1,
+    "max": 32.4,
+    "mean": 27.987755102040815,
+    "mapped": true
+  },
+  "2162": {
+    "name_cn": "3#排气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 29.7,
+    "max": 32.2,
+    "mean": 30.261224489795918,
+    "mapped": true
+  },
+  "2161": {
+    "name_cn": "3#标定环翅差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 9.2,
+    "max": 999.9,
+    "mean": 777.4979591836734,
+    "mapped": true
+  },
+  "2160": {
+    "name_cn": "3#经济器出口温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2159": {
+    "name_cn": "3#压缩机累计运行时间",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 49.0,
+    "min": 133.0,
+    "max": 402.0,
+    "mean": 341.61224489795916,
+    "mapped": true
+  },
+  "2158": {
+    "name_cn": "3#压缩机实际频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2157": {
+    "name_cn": "3#压缩机目标频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2156": {
+    "name_cn": "3#压缩机电机极对数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2177": {
+    "name_cn": "4#蒸发温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2176": {
+    "name_cn": "4#冷凝温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "2175": {
+    "name_cn": "4#低压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 7.0,
+    "max": 7.0,
+    "mean": 7.0,
+    "mapped": true
+  },
+  "2174": {
+    "name_cn": "4#高压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "2173": {
+    "name_cn": "4#吸气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -2.5,
+    "max": 2.1,
+    "mean": 1.195918367346939,
+    "mapped": true
+  },
+  "2172": {
+    "name_cn": "4#吸气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2171": {
+    "name_cn": "4#吸气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -0.5,
+    "max": 6.3,
+    "mean": 3.575510204081633,
+    "mapped": true
+  },
+  "2170": {
+    "name_cn": "4#排气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 33.8,
+    "max": 49.1,
+    "mean": 45.22040816326531,
+    "mapped": true
+  },
+  "2169": {
+    "name_cn": "4#阀后温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 3.8,
+    "max": 8.5,
+    "mean": 6.855102040816326,
+    "mapped": true
+  },
+  "2168": {
+    "name_cn": "4#翅片温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -0.7,
+    "max": 5.3,
+    "mean": 2.379591836734694,
+    "mapped": true
+  },
+  "2167": {
+    "name_cn": "风机6实际转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2200": {
+    "name_cn": "Resveve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2180": {
+    "name_cn": "4#压缩机运行电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2188": {
+    "name_cn": "4#压缩机机型码",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 31.0,
+    "max": 31.0,
+    "mean": 31.0,
+    "mapped": true
+  },
+  "2187": {
+    "name_cn": "4#最大频率限制值",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": -295.36,
+    "max": -295.36,
+    "mean": -295.36000000000007,
+    "mapped": true
+  },
+  "2186": {
+    "name_cn": "4#IPM温度值",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 6.0,
+    "max": 11.0,
+    "mean": 9.16326530612245,
+    "mapped": true
+  },
+  "2185": {
+    "name_cn": "4#降频状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2184": {
+    "name_cn": "4#输出功率",
+    "name_en": "",
+    "unit": "Kw",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2183": {
+    "name_cn": "4#运行电流值",
+    "name_en": "",
+    "unit": "A",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2182": {
+    "name_cn": "4#输出电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2181": {
+    "name_cn": "4#母线电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 552.1,
+    "max": 574.3,
+    "mean": 566.5612244897959,
+    "mapped": true
+  },
+  "2179": {
+    "name_cn": "4#压缩机设定电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2178": {
+    "name_cn": "4#压缩机驱动板工作状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2191": {
+    "name_cn": "4#压缩机实际频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2190": {
+    "name_cn": "4#压缩机目标频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2111": {
+    "name_cn": "2#蒸发温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2199": {
+    "name_cn": "Resveve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2110": {
+    "name_cn": "2#冷凝温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "2198": {
+    "name_cn": "Resveve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2197": {
+    "name_cn": "Resveve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2196": {
+    "name_cn": "4#排气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 9.5,
+    "max": 28.8,
+    "mean": 23.89183673469388,
+    "mapped": true
+  },
+  "2195": {
+    "name_cn": "4#排气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 29.8,
+    "max": 30.0,
+    "mean": 29.844897959183676,
+    "mapped": true
+  },
+  "2194": {
+    "name_cn": "4#标定环翅差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 12.9,
+    "max": 999.9,
+    "mean": 778.3285714285714,
+    "mapped": true
+  },
+  "2193": {
+    "name_cn": "4#经济器出口温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2192": {
+    "name_cn": "4#压缩机累计运行时间",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 49.0,
+    "min": 130.0,
+    "max": 377.0,
+    "mean": 321.55102040816325,
+    "mapped": true
+  },
+  "2108": {
+    "name_cn": "2#高压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "2107": {
+    "name_cn": "2#吸气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.8,
+    "max": 2.8,
+    "mean": 2.0612244897959187,
+    "mapped": true
+  },
+  "2106": {
+    "name_cn": "2#吸气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2105": {
+    "name_cn": "2#吸气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.3,
+    "max": 6.5,
+    "mean": 3.748979591836735,
+    "mapped": true
+  },
+  "2104": {
+    "name_cn": "2#排气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 35.8,
+    "max": 44.9,
+    "mean": 41.93469387755103,
+    "mapped": true
+  },
+  "2103": {
+    "name_cn": "2#阀后温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 10.5,
+    "max": 12.5,
+    "mean": 11.379591836734694,
+    "mapped": true
+  },
+  "2102": {
+    "name_cn": "2#翅片温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -1.4,
+    "max": 5.1,
+    "mean": 1.6877551020408164,
+    "mapped": true
+  },
+  "2101": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": -17662.0,
+    "max": -17662.0,
+    "mean": -17662.0,
+    "mapped": true
+  },
+  "2189": {
+    "name_cn": "4#压缩机电机极对数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2109": {
+    "name_cn": "2#低压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 7.0,
+    "max": 7.0,
+    "mean": 7.0,
+    "mapped": true
+  },
+  "2122": {
+    "name_cn": "2#压缩机机型码",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 31.0,
+    "max": 31.0,
+    "mean": 31.0,
+    "mapped": true
+  },
+  "2121": {
+    "name_cn": "2#最大频率限制值",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": -295.36,
+    "max": -295.36,
+    "mean": -295.36000000000007,
+    "mapped": true
+  },
+  "2120": {
+    "name_cn": "2#IPM温度值",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 4.0,
+    "max": 9.0,
+    "mean": 7.142857142857143,
+    "mapped": true
+  },
+  "2119": {
+    "name_cn": "2#降频状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2118": {
+    "name_cn": "2#输出功率",
+    "name_en": "",
+    "unit": "Kw",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2117": {
+    "name_cn": "2#运行电流值",
+    "name_en": "",
+    "unit": "A",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2116": {
+    "name_cn": "2#输出电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2115": {
+    "name_cn": "2#母线电压值",
+    "name_en": "",
+    "unit": "V",
+    "valid_pct": 49.0,
+    "min": 553.6,
+    "max": 574.8,
+    "mean": 567.369387755102,
+    "mapped": true
+  },
+  "2114": {
+    "name_cn": "2#压缩机运行电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2113": {
+    "name_cn": "2#压缩机设定电流频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2112": {
+    "name_cn": "2#压缩机驱动板工作状态",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2133": {
+    "name_cn": "风机4目标转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2132": {
+    "name_cn": "风机3实际转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2131": {
+    "name_cn": "风机3目标转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2130": {
+    "name_cn": "2#排气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 11.3,
+    "max": 24.6,
+    "mean": 20.60612244897959,
+    "mapped": true
+  },
+  "2129": {
+    "name_cn": "2#排气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 30.4,
+    "max": 32.7,
+    "mean": 30.916326530612245,
+    "mapped": true
+  },
+  "2128": {
+    "name_cn": "2#标定环翅差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 999.9,
+    "max": 999.9,
+    "mean": 999.9,
+    "mapped": true
+  },
+  "2127": {
+    "name_cn": "2#经济器出口温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2126": {
+    "name_cn": "2#压缩机累计运行时间",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 49.0,
+    "min": 138.0,
+    "max": 403.0,
+    "mean": 343.51020408163265,
+    "mapped": true
+  },
+  "2125": {
+    "name_cn": "2#压缩机实际频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2124": {
+    "name_cn": "2#压缩机目标频率",
+    "name_en": "",
+    "unit": "Hz",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2123": {
+    "name_cn": "2#压缩机电机极对数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 49.0,
+    "min": 3.0,
+    "max": 3.0,
+    "mean": 3.0,
+    "mapped": true
+  },
+  "2144": {
+    "name_cn": "3#蒸发温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "2143": {
+    "name_cn": "3#冷凝温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "2142": {
+    "name_cn": "3#低压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 7.0,
+    "max": 7.0,
+    "mean": 7.0,
+    "mapped": true
+  },
+  "2141": {
+    "name_cn": "3#高压压力",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 49.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "2140": {
+    "name_cn": "3#吸气当前过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 1.2,
+    "max": 3.0,
+    "mean": 2.3285714285714283,
+    "mapped": true
+  },
+  "2139": {
+    "name_cn": "3#吸气目标过热度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "2138": {
+    "name_cn": "3#吸气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -0.2,
+    "max": 6.5,
+    "mean": 3.6551020408163266,
+    "mapped": true
+  },
+  "2137": {
+    "name_cn": "3#排气温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 40.4,
+    "max": 52.7,
+    "mean": 49.316326530612244,
+    "mapped": true
+  },
+  "2136": {
+    "name_cn": "3#阀后温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": 9.7,
+    "max": 12.8,
+    "mean": 11.26530612244898,
+    "mapped": true
+  },
+  "2135": {
+    "name_cn": "3#翅片温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 49.0,
+    "min": -1.9,
+    "max": 5.0,
+    "mean": 1.3265306122448979,
+    "mapped": true
+  },
+  "2134": {
+    "name_cn": "风机4实际转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 49.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "130": {
+    "name_cn": "Reserve",
+    "name_en": "Reserve",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "110": {
+    "name_cn": "高级参数上传周期",
+    "name_en": "Advan up period",
+    "unit": "′",
+    "valid_pct": 2.0,
+    "min": 720.0,
+    "max": 720.0,
+    "mean": 720.0,
+    "mapped": true
+  },
+  "111": {
+    "name_cn": "模组手动重启",
+    "name_en": "Module manual reset",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "112": {
+    "name_cn": "模组定时重启",
+    "name_en": "module timing reset",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "113": {
+    "name_cn": "开关机",
+    "name_en": "Power status",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "114": {
+    "name_cn": "模式设置",
+    "name_en": "Mode",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "115": {
+    "name_cn": "空调水温控制方式",
+    "name_en": "Water control mode",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "mapped": true
+  },
+  "116": {
+    "name_cn": "制热设定温度",
+    "name_en": "Heating set",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "117": {
+    "name_cn": "制冷设定温度",
+    "name_en": "Cooling set",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 12.0,
+    "max": 12.0,
+    "mean": 12.0,
+    "mapped": true
+  },
+  "118": {
+    "name_cn": "自动设定温度",
+    "name_en": "Auto set",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "119": {
+    "name_cn": "热水设定温度",
+    "name_en": "Hot water set",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 50.0,
+    "max": 50.0,
+    "mean": 50.0,
+    "mapped": true
+  },
+  "120": {
+    "name_cn": "制冷上限温度",
+    "name_en": "cooling_max",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "121": {
+    "name_cn": "制冷下限温度",
+    "name_en": "cooling_min",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 12.0,
+    "max": 12.0,
+    "mean": 12.0,
+    "mapped": true
+  },
+  "122": {
+    "name_cn": "制热上限温度",
+    "name_en": "heating_max",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 55.0,
+    "max": 55.0,
+    "mean": 55.0,
+    "mapped": true
+  },
+  "101": {
+    "name_cn": "监控模式",
+    "name_en": "Monitor_Mode",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "123": {
+    "name_cn": "制热下限温度",
+    "name_en": "heating_min",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 25.0,
+    "max": 25.0,
+    "mean": 25.0,
+    "mapped": true
+  },
+  "102": {
+    "name_cn": "监控时间间隔",
+    "name_en": "Monitor_Interval_Cyc",
+    "unit": "″",
+    "valid_pct": 2.0,
+    "min": 5.0,
+    "max": 5.0,
+    "mean": 5.0,
+    "mapped": true
+  },
+  "124": {
+    "name_cn": "自动上限温度",
+    "name_en": "auto_max",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 55.0,
+    "max": 55.0,
+    "mean": 55.0,
+    "mapped": true
+  },
+  "103": {
+    "name_cn": "监控时长",
+    "name_en": "Monitor_Interval_Tim",
+    "unit": "″",
+    "valid_pct": 2.0,
+    "min": 300.0,
+    "max": 300.0,
+    "mean": 300.0,
+    "mapped": true
+  },
+  "125": {
+    "name_cn": "自动下限温度",
+    "name_en": "auto_min",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 12.0,
+    "max": 12.0,
+    "mean": 12.0,
+    "mapped": true
+  },
+  "104": {
+    "name_cn": "查询状态参数使能",
+    "name_en": "Query_Status_Enable",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "126": {
+    "name_cn": "热水上限温度",
+    "name_en": "water_max",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 55.0,
+    "max": 55.0,
+    "mean": 55.0,
+    "mapped": true
+  },
+  "105": {
+    "name_cn": "查询所有参数使能",
+    "name_en": "Query_Para_Enable",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "127": {
+    "name_cn": "热水下限温度",
+    "name_en": "water_min",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 20.0,
+    "max": 20.0,
+    "mean": 20.0,
+    "mapped": true
+  },
+  "106": {
+    "name_cn": "远程锁机使能",
+    "name_en": "Remote_Lock_Enable",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "128": {
+    "name_cn": "Reserve",
+    "name_en": "Reserve",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "107": {
+    "name_cn": "剩余开机时长",
+    "name_en": "Remain_PowerOn_Time",
+    "unit": "h",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "129": {
+    "name_cn": "Reserve",
+    "name_en": "Reserve",
+    "unit": "",
+    "valid_pct": 2.0,
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "mapped": true
+  },
+  "108": {
+    "name_cn": "状态参数常规上传周期",
+    "name_en": "Status_Cloud_Up_Cycl",
+    "unit": "″",
+    "valid_pct": 2.0,
+    "min": 300.0,
+    "max": 300.0,
+    "mean": 300.0,
+    "mapped": true
+  },
+  "109": {
+    "name_cn": "常用参数常规上传周期",
+    "name_en": "Para_Cloud_Up_Cycle",
+    "unit": "′",
+    "valid_pct": 2.0,
+    "min": 30.0,
+    "max": 30.0,
+    "mean": 30.0,
+    "mapped": true
+  },
+  "1066": {
+    "name_cn": "04#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1065": {
+    "name_cn": "03#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1064": {
+    "name_cn": "02#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1063": {
+    "name_cn": "01#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1062": {
+    "name_cn": "00#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1061": {
+    "name_cn": "模块个数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1060": {
+    "name_cn": "PLC/外部控制通讯地址",
+    "name_en": "PLC address",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1059": {
+    "name_cn": "PLC/外部控制波特率",
+    "name_en": "PLC baudrate",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1058": {
+    "name_cn": "PLC/外部控制数据格式",
+    "name_en": "PLC data format",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1057": {
+    "name_cn": "4#压机高压 ",
+    "name_en": "N36",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1056": {
+    "name_cn": "4#压机低压 ",
+    "name_en": "N35",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1077": {
+    "name_cn": "15#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1076": {
+    "name_cn": "14#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1075": {
+    "name_cn": "13#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1074": {
+    "name_cn": "12#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1073": {
+    "name_cn": "11#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1072": {
+    "name_cn": "10#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1071": {
+    "name_cn": "09#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1070": {
+    "name_cn": "08#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1069": {
+    "name_cn": "07#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1068": {
+    "name_cn": "06#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1067": {
+    "name_cn": "05#模块设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1100": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1080": {
+    "name_cn": "翅片2温度",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1088": {
+    "name_cn": "冷凝器类型",
+    "name_en": "Condenser type",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1087": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1086": {
+    "name_cn": "显示水位状态",
+    "name_en": "Water level status",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1085": {
+    "name_cn": "补水阀功能",
+    "name_en": "Water refill valve",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1084": {
+    "name_cn": "4G切换WiFi功能",
+    "name_en": "Wireless Mode",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1083": {
+    "name_cn": "开机能调功能",
+    "name_en": "Adjusted function",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1082": {
+    "name_cn": "经济器出口温度",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1081": {
+    "name_cn": "下回水温度",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1079": {
+    "name_cn": "总回水温度",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1078": {
+    "name_cn": "总出水温度",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1091": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1090": {
+    "name_cn": "阀后温度",
+    "name_en": "Temp behind valve",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1011": {
+    "name_cn": "手动启动负载2",
+    "name_en": "Manula load output2",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1099": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1010": {
+    "name_cn": "手动启动负载1",
+    "name_en": "Manual load output1",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1098": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1097": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1096": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1095": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1094": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1093": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1092": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1008": {
+    "name_cn": "开机能调功能",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1007": {
+    "name_cn": "参数恢复请求置零标志",
+    "name_en": "Para resetFg",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1006": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1005": {
+    "name_cn": "能调模式",
+    "name_en": "Capacity regulation ",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1004": {
+    "name_cn": "控制模式",
+    "name_en": "Set mode",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1003": {
+    "name_cn": "开关机",
+    "name_en": "Power status",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1002": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1001": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1089": {
+    "name_cn": "下回水水流开关",
+    "name_en": "Lower water flow",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1009": {
+    "name_cn": "恢复出厂设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1022": {
+    "name_cn": "机组类型",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1021": {
+    "name_cn": "故障锁机复位",
+    "name_en": "Protect lock reset",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1020": {
+    "name_cn": "预热方式",
+    "name_en": "PreheatMode",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1019": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1018": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1017": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1016": {
+    "name_cn": "剩余开机时长",
+    "name_en": "Estimated Time",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1015": {
+    "name_cn": "线控器程序版本",
+    "name_en": "Line Control Version",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1014": {
+    "name_cn": "线控器密码锁机标记位",
+    "name_en": "Line Control Lock Fg",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1013": {
+    "name_cn": "清除耗电量标记位",
+    "name_en": "Clear power",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1012": {
+    "name_cn": "手动除霜",
+    "name_en": "1012",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1033": {
+    "name_cn": "远程模式切换使用",
+    "name_en": "Remote switch use",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1032": {
+    "name_cn": "00板电源报警",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1031": {
+    "name_cn": "单元水流开关",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1030": {
+    "name_cn": "来电自启动",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1029": {
+    "name_cn": "掉电记忆",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1028": {
+    "name_cn": "机组启停控制",
+    "name_en": "Power Control Mode",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1027": {
+    "name_cn": "控制对象",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1026": {
+    "name_cn": "高压传感器",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1025": {
+    "name_cn": "低压传感器",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1024": {
+    "name_cn": "冷媒类型",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1023": {
+    "name_cn": "厂家模式",
+    "name_en": "Factory Mode",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1044": {
+    "name_cn": "联动开关",
+    "name_en": "Linkage switch",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1043": {
+    "name_cn": "远程模式切换      ",
+    "name_en": "Remote switch",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1042": {
+    "name_cn": "水流开关",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1041": {
+    "name_cn": "四通阀关提前",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1040": {
+    "name_cn": "四通阀开提前",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1039": {
+    "name_cn": "四通阀类型",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1038": {
+    "name_cn": "广告品牌",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1037": {
+    "name_cn": "温度单位",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1036": {
+    "name_cn": "首次开机密码",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1035": {
+    "name_cn": "变频通信格式  ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1034": {
+    "name_cn": "变频通信波特率",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1055": {
+    "name_cn": "3#压机高压 ",
+    "name_en": "N34",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1054": {
+    "name_cn": "3#压机低压 ",
+    "name_en": "N33",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1053": {
+    "name_cn": "2#压机高压 ",
+    "name_en": "N32",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1052": {
+    "name_cn": "2#压机低压 ",
+    "name_en": "N31",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1051": {
+    "name_cn": "1#压机高压 ",
+    "name_en": "N30",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1050": {
+    "name_cn": "1#压机低压 ",
+    "name_en": "N29",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1049": {
+    "name_cn": "2#风机过载 ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1048": {
+    "name_cn": "1#风机过载 ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1047": {
+    "name_cn": "联动断开停泵",
+    "name_en": "N26",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1046": {
+    "name_cn": "联动开关延时",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1045": {
+    "name_cn": "联动开关使能",
+    "name_en": "Linkage switch use",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1187": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1186": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1185": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1184": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1183": {
+    "name_cn": "低温平台延时环温",
+    "name_en": "Low env delay temp",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1182": {
+    "name_cn": "水温限制区4",
+    "name_en": "Water limit zone4",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1181": {
+    "name_cn": "水温限制区3",
+    "name_en": "Water limit zone3",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1180": {
+    "name_cn": "水温限制区2",
+    "name_en": "Water limit zone2",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1179": {
+    "name_cn": "水温限制区1",
+    "name_en": "Water limit zone1",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1178": {
+    "name_cn": "水温限制A5",
+    "name_en": "Water temp limit A5",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1177": {
+    "name_cn": "水温限制A4",
+    "name_en": "Water temp limit A4",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1190": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1110": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1198": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1197": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1196": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1195": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1194": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1193": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1192": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1191": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1107": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1106": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1105": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1104": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1103": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1102": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1101": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1189": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1188": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1109": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1108": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1121": {
+    "name_cn": "低压检测延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1120": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1118": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1117": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1116": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1115": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1114": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1113": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1112": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1111": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1199": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1119": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1132": {
+    "name_cn": "制冷空调过低",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1131": {
+    "name_cn": "自动复位允许",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1130": {
+    "name_cn": "自动复位时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1129": {
+    "name_cn": "水流不足检测",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1128": {
+    "name_cn": "一般故障延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1127": {
+    "name_cn": "开机前检测低压环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1126": {
+    "name_cn": "替代低压温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1125": {
+    "name_cn": "不检测低压环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1124": {
+    "name_cn": "退除霜低压",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1123": {
+    "name_cn": "制热低压报警",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1122": {
+    "name_cn": "制冷低压报警",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1143": {
+    "name_cn": "出回温差异常",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1142": {
+    "name_cn": "排温保护温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1141": {
+    "name_cn": "排温低检测延",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1140": {
+    "name_cn": "排温低报警延",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1139": {
+    "name_cn": "最低运行环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1138": {
+    "name_cn": "退排温温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1137": {
+    "name_cn": "排气温度过高",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1136": {
+    "name_cn": "退翅温温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1135": {
+    "name_cn": "翅温过高保护",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1134": {
+    "name_cn": "退保护出温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1133": {
+    "name_cn": "制热空调过高",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1154": {
+    "name_cn": "防冻温度1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1153": {
+    "name_cn": "防冻间隔2",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1152": {
+    "name_cn": "防冻间隔1",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1151": {
+    "name_cn": "防冻功能使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1150": {
+    "name_cn": "定时监控时长",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1149": {
+    "name_cn": "定时监控周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1148": {
+    "name_cn": "定时正常周期",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1147": {
+    "name_cn": "阀后过低检延",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1146": {
+    "name_cn": "制冷阀后过低",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1145": {
+    "name_cn": "出回温差延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1144": {
+    "name_cn": "出回温差过大",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1165": {
+    "name_cn": "高压保护值",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1164": {
+    "name_cn": "防冻开压机间隔",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1163": {
+    "name_cn": "退防冻环温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1162": {
+    "name_cn": "进防冻环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1161": {
+    "name_cn": "防冻间隔环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1160": {
+    "name_cn": "压机退防冻",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1159": {
+    "name_cn": "电热退防冻",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1158": {
+    "name_cn": "防冻环温2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1157": {
+    "name_cn": "防冻环温1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1156": {
+    "name_cn": "防冻温度3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1155": {
+    "name_cn": "防冻温度2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1176": {
+    "name_cn": "水温限制A3",
+    "name_en": "Water temp limit A3",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1175": {
+    "name_cn": "水温限制A2",
+    "name_en": "Water temp limit A2",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1174": {
+    "name_cn": "水温限制A1",
+    "name_en": "Water temp limit A1",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1173": {
+    "name_cn": "水温限制K5",
+    "name_en": "Water temp limit K5",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1172": {
+    "name_cn": "水温限制K4",
+    "name_en": "Water temp limit K4",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1171": {
+    "name_cn": "水温限制K3",
+    "name_en": "Water temp limit K3",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1170": {
+    "name_cn": "水温限制K2",
+    "name_en": "Water temp limit K2",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1169": {
+    "name_cn": "水温限制K1",
+    "name_en": "Water temp limit K1",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1168": {
+    "name_cn": "水泵防冻运转",
+    "name_en": "Anti-freeze run TM",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1167": {
+    "name_cn": "开机低压环温",
+    "name_en": "Low press ON temp",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1200": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1166": {
+    "name_cn": "低温平台延时",
+    "name_en": "Low temp platorm dly",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1220": {
+    "name_cn": "除霜停压机",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1217": {
+    "name_cn": "退除霜出温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1216": {
+    "name_cn": "退除霜翅温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1215": {
+    "name_cn": "退除霜翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1214": {
+    "name_cn": "允许除霜翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1213": {
+    "name_cn": "允许除霜环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1212": {
+    "name_cn": "紧急除霜环翅",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1211": {
+    "name_cn": "环翅变差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1299": {
+    "name_cn": "负载2",
+    "name_en": "H44~H47",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1210": {
+    "name_cn": "温度确认时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1298": {
+    "name_cn": "负载1",
+    "name_en": "H40~H43",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1219": {
+    "name_cn": "关除霜电热延",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1218": {
+    "name_cn": "退除霜风机延",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1231": {
+    "name_cn": "除霜水温修订系数3",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1230": {
+    "name_cn": "除霜水温修订系数2",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1228": {
+    "name_cn": "模块内共同除霜",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1227": {
+    "name_cn": "强制除霜时间",
+    "name_en": "Defr time",
+    "unit": "h",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1226": {
+    "name_cn": "低压除霜翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1225": {
+    "name_cn": "低压除霜间隔",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1224": {
+    "name_cn": "低压除霜检测",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1223": {
+    "name_cn": "低压除霜使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1222": {
+    "name_cn": "除霜四通延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1221": {
+    "name_cn": "除霜压机延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1229": {
+    "name_cn": "除霜水温修订系数1",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1242": {
+    "name_cn": "除霜环翅差1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1241": {
+    "name_cn": "除霜间隔5",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1240": {
+    "name_cn": "除霜间隔4",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1239": {
+    "name_cn": "除霜间隔3",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1238": {
+    "name_cn": "除霜间隔2",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1237": {
+    "name_cn": "除霜间隔1",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1236": {
+    "name_cn": "除霜环温4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1235": {
+    "name_cn": "除霜环温3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1234": {
+    "name_cn": "除霜环温2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1233": {
+    "name_cn": "除霜环温1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1232": {
+    "name_cn": "过冷修正系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1253": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1252": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1251": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1250": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1249": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1248": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1247": {
+    "name_cn": "除霜开度系数",
+    "name_en": "D46",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1246": {
+    "name_cn": "除霜环翅差5",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1245": {
+    "name_cn": "除霜环翅差4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1244": {
+    "name_cn": "除霜环翅差3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1243": {
+    "name_cn": "除霜环翅差2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1264": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1263": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1262": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1261": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1260": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1259": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1258": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1257": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1256": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1255": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1254": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1275": {
+    "name_cn": "总出水温度补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1274": {
+    "name_cn": "00#机组出温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1273": {
+    "name_cn": "00#机组回温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1272": {
+    "name_cn": "00#环温补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1271": {
+    "name_cn": "00#压机4使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1270": {
+    "name_cn": "00#压机3使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1269": {
+    "name_cn": "00#压机2使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1268": {
+    "name_cn": "00#压机1使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1267": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1300": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1266": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1265": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1286": {
+    "name_cn": "00#阀后2补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1285": {
+    "name_cn": "00#阀后1补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1284": {
+    "name_cn": "00#翅片4补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1283": {
+    "name_cn": "00#翅片3补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1282": {
+    "name_cn": "00#翅片2补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1281": {
+    "name_cn": "00#翅片1补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1280": {
+    "name_cn": "00#吸气4补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1279": {
+    "name_cn": "00#吸气3补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1278": {
+    "name_cn": "00#吸气2补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1277": {
+    "name_cn": "00#吸气1补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1276": {
+    "name_cn": "总回水温度补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1297": {
+    "name_cn": "00#辅膨胀阀1~4",
+    "name_en": "H36~H39",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1296": {
+    "name_cn": "00#主膨胀阀1~4",
+    "name_en": "H32~H35",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1295": {
+    "name_cn": "00#四通阀1~4",
+    "name_en": "H28~H31",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1294": {
+    "name_cn": "00#机组水箱",
+    "name_en": "H27",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1293": {
+    "name_cn": "环温补偿值",
+    "name_en": "H26",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1292": {
+    "name_cn": "00#排气4补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1291": {
+    "name_cn": "00#排气3补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1290": {
+    "name_cn": "00#排气2补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1206": {
+    "name_cn": "除霜时间",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1205": {
+    "name_cn": "除霜开机时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1204": {
+    "name_cn": "首次除霜间隔",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1203": {
+    "name_cn": "压机积霜计时",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1202": {
+    "name_cn": "除霜百分数 ",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1201": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1289": {
+    "name_cn": "00#排气1补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1288": {
+    "name_cn": "00#阀后4补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1287": {
+    "name_cn": "00#阀后3补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1209": {
+    "name_cn": "重度结霜温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1208": {
+    "name_cn": "中度结霜温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1207": {
+    "name_cn": "环翅智能除霜",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1341": {
+    "name_cn": "交变最大转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1340": {
+    "name_cn": "交变最小转速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1338": {
+    "name_cn": "制热高速环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1337": {
+    "name_cn": "制冷低速环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1336": {
+    "name_cn": "制冷高速环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1335": {
+    "name_cn": "手动风机转速4",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1334": {
+    "name_cn": "手动风机转速3",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1333": {
+    "name_cn": "手动风机转速2",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1332": {
+    "name_cn": "手动风机转速1",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1331": {
+    "name_cn": "手动控制风速",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1339": {
+    "name_cn": "制热低速环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1352": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1351": {
+    "name_cn": "制冷风速温回差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1350": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1349": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1348": {
+    "name_cn": "风机控制方式",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1347": {
+    "name_cn": "制热风机关提前",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1346": {
+    "name_cn": "制热风机开提前",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1345": {
+    "name_cn": "制冷风机关提前",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1344": {
+    "name_cn": "制冷风机开提前",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1343": {
+    "name_cn": "静音最大风速",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1342": {
+    "name_cn": "风机转速偏差",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1363": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1362": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1361": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1360": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1359": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1358": {
+    "name_cn": "风速调节周期",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1357": {
+    "name_cn": "冷高环限风速",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1356": {
+    "name_cn": "风速保护功能",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1355": {
+    "name_cn": "制热风速温回差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1354": {
+    "name_cn": "制热高风低压",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1353": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1374": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1373": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1372": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1371": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1370": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1369": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1368": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1367": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1400": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1366": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1365": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1364": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1385": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1384": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1383": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1382": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1381": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1380": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1379": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1378": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1377": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1376": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1375": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1396": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1395": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1394": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1393": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1392": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1391": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1390": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1305": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1304": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1303": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1302": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1301": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1389": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1388": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1387": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1386": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1309": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1308": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1307": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1306": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1316": {
+    "name_cn": "制冷最大风速 ",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1315": {
+    "name_cn": "制冷最小风速 ",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1314": {
+    "name_cn": "直流风机控制方式  ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1313": {
+    "name_cn": "直流风机基址  ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1312": {
+    "name_cn": "风机类型",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1311": {
+    "name_cn": "风道类型",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1399": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1310": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1398": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1397": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1319": {
+    "name_cn": "制冷低速翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1318": {
+    "name_cn": "制热最大风速 ",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1317": {
+    "name_cn": "制热最小风速 ",
+    "name_en": "",
+    "unit": "rpm",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1330": {
+    "name_cn": "风速动作比例",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1327": {
+    "name_cn": "制热45℃系数",
+    "name_en": "F17",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1326": {
+    "name_cn": "制热40℃系数",
+    "name_en": "F16",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1325": {
+    "name_cn": "制热20℃系数",
+    "name_en": "F15",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1324": {
+    "name_cn": "制冷20℃系数",
+    "name_en": "F14",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1323": {
+    "name_cn": "制冷7℃系数",
+    "name_en": "F13",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1322": {
+    "name_cn": "制热高速翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1321": {
+    "name_cn": "制热低速翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1320": {
+    "name_cn": "制冷高速翅温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1329": {
+    "name_cn": "允许运行关风",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1328": {
+    "name_cn": "最小风速维持",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1462": {
+    "name_cn": "工况表使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1461": {
+    "name_cn": "手动变频转速4",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1460": {
+    "name_cn": "手动变频转速3",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1459": {
+    "name_cn": "手动变频转速2",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1458": {
+    "name_cn": "手动变频转速1",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1457": {
+    "name_cn": "手动控制转速 ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1456": {
+    "name_cn": "高转速连续运行",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1455": {
+    "name_cn": "可回油高转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1454": {
+    "name_cn": "强制降速频率3 ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1453": {
+    "name_cn": "强制降速频率2 ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1452": {
+    "name_cn": "强制降速频率1 ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1473": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1472": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1471": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1470": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1469": {
+    "name_cn": "进排气禁升排温",
+    "name_en": "C68",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1468": {
+    "name_cn": "静音转速比例",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1467": {
+    "name_cn": "热低水限频1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1500": {
+    "name_cn": "压缩机拓展参数数值",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1466": {
+    "name_cn": "热高水限频2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1465": {
+    "name_cn": "热高水限频1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1464": {
+    "name_cn": "冷高环限频2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1463": {
+    "name_cn": "冷高环限频1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1484": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1483": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1482": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1481": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1480": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1479": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1478": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1477": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1476": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1475": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1474": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1495": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1494": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1493": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1492": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1491": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1490": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1404": {
+    "name_cn": "制冷转速上限",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1403": {
+    "name_cn": "变频压机编码",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1402": {
+    "name_cn": "变频器基址  ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1401": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1489": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1488": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1487": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1486": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1485": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1409": {
+    "name_cn": "除霜额定转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1408": {
+    "name_cn": "制热额定转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1407": {
+    "name_cn": "制冷额定转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1406": {
+    "name_cn": "最低运转转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1405": {
+    "name_cn": "制热转速上限    ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1415": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1414": {
+    "name_cn": "升速速率    ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1413": {
+    "name_cn": "回油时间    ",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1412": {
+    "name_cn": "回油周期    ",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1411": {
+    "name_cn": "定频等价转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1499": {
+    "name_cn": "压缩机拓展参数序号",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1410": {
+    "name_cn": "启动稳定时间",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1498": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1497": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1496": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1419": {
+    "name_cn": "调阀转速2   ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1418": {
+    "name_cn": "调阀转速1   ",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1417": {
+    "name_cn": "调阀转速增量",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1416": {
+    "name_cn": "升频调阀延时",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1426": {
+    "name_cn": "回避频率2",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1425": {
+    "name_cn": "回避频率1",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1424": {
+    "name_cn": "回避频率范围",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1423": {
+    "name_cn": "回油调阀系数  ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1422": {
+    "name_cn": "制冷调阀系数3   ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1421": {
+    "name_cn": "制冷调阀系数2   ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1420": {
+    "name_cn": "制冷调阀系数1   ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1429": {
+    "name_cn": "回避频率5",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1428": {
+    "name_cn": "回避频率4",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1427": {
+    "name_cn": "回避频率3",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1440": {
+    "name_cn": "进排气限制排温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1437": {
+    "name_cn": "驱动转速上限",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1436": {
+    "name_cn": "驱动转速下限",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1435": {
+    "name_cn": "频率偏差设置",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1434": {
+    "name_cn": "回避频率10",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1433": {
+    "name_cn": "回避频率9",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1432": {
+    "name_cn": "回避频率8",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1431": {
+    "name_cn": "回避频率7",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1430": {
+    "name_cn": "回避频率6",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1439": {
+    "name_cn": "制热禁降速出温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1438": {
+    "name_cn": "制冷禁降速出温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1451": {
+    "name_cn": "静音最大转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1450": {
+    "name_cn": "强制降速周期  ",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1448": {
+    "name_cn": "启用降速低压",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1447": {
+    "name_cn": "强制降速低压  ",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1446": {
+    "name_cn": "强制降速电流",
+    "name_en": "Down Current",
+    "unit": "A",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1445": {
+    "name_cn": "强制降速高压  ",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1444": {
+    "name_cn": "纽恩泰驱动跳址",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1443": {
+    "name_cn": "禁止升速电流",
+    "name_en": "Limite Current",
+    "unit": "A",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1442": {
+    "name_cn": "禁止升速高压  ",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1441": {
+    "name_cn": "禁止升速低压  ",
+    "name_en": "",
+    "unit": "bar",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1449": {
+    "name_cn": "强制降速排温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1583": {
+    "name_cn": "2#回过系数",
+    "name_en": "E82",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1582": {
+    "name_cn": "1#回过系数",
+    "name_en": "E81",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1581": {
+    "name_cn": "4#参考系数",
+    "name_en": "E80",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1580": {
+    "name_cn": "3#参考系数",
+    "name_en": "E79",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1579": {
+    "name_cn": "2#参考系数",
+    "name_en": "E78",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1578": {
+    "name_cn": "1#参考系数",
+    "name_en": "E77",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1577": {
+    "name_cn": "排高修正回过2",
+    "name_en": "E76",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1576": {
+    "name_cn": "排高修正回过1",
+    "name_en": "E75",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1575": {
+    "name_cn": "排过修正回过2",
+    "name_en": "E74",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1574": {
+    "name_cn": "排过修正回过1",
+    "name_en": "E73",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1573": {
+    "name_cn": "经济过冷系数2",
+    "name_en": "E72",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1594": {
+    "name_cn": "制热转换环温0",
+    "name_en": "--",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1593": {
+    "name_cn": "强制动作系数",
+    "name_en": "--",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1592": {
+    "name_cn": "主冷修正系数",
+    "name_en": "E91",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1591": {
+    "name_cn": "主路过冷控制",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1590": {
+    "name_cn": "排气低调阀比例",
+    "name_en": "E89",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1503": {
+    "name_cn": "励磁方式",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1502": {
+    "name_cn": "主回路电膨",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1501": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1589": {
+    "name_cn": "排气过热低值",
+    "name_en": "E88",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1588": {
+    "name_cn": "排气低辅助控制",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1587": {
+    "name_cn": "低环高水主保",
+    "name_en": "E86",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1586": {
+    "name_cn": "低环高水维持",
+    "name_en": "E85",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1585": {
+    "name_cn": "4#回过系数",
+    "name_en": "E84",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1584": {
+    "name_cn": "3#回过系数",
+    "name_en": "E83",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1509": {
+    "name_cn": "主阀待机步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1508": {
+    "name_cn": "最小运行步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1507": {
+    "name_cn": "最大运行步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1506": {
+    "name_cn": "上电归零开度",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1505": {
+    "name_cn": "膨胀阀总步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1504": {
+    "name_cn": "励磁频率",
+    "name_en": "",
+    "unit": "pps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1514": {
+    "name_cn": "制冷初开放大",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1513": {
+    "name_cn": "制冷初开维持",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1512": {
+    "name_cn": "制冷最小初开",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1511": {
+    "name_cn": "制冷最大初开 ",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1599": {
+    "name_cn": "主辅动作方向",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1510": {
+    "name_cn": "主阀除霜步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1598": {
+    "name_cn": "排气抑制主辅次序",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1597": {
+    "name_cn": "低环高水辅阀",
+    "name_en": "--",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1596": {
+    "name_cn": "低环高水辅延",
+    "name_en": "--",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1595": {
+    "name_cn": "制热过热度0",
+    "name_en": "--",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1519": {
+    "name_cn": "制热初开转换2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1518": {
+    "name_cn": "制热初开转换1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1517": {
+    "name_cn": "制热初开维持",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1516": {
+    "name_cn": "制热最小初开",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1515": {
+    "name_cn": "制热最大初开",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1525": {
+    "name_cn": "参考步数3 ",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1524": {
+    "name_cn": "参考步数2 ",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1523": {
+    "name_cn": "参考步数1 ",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1522": {
+    "name_cn": "制热初开放大3",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1521": {
+    "name_cn": "制热初开放大2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1520": {
+    "name_cn": "制热初开放大1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1529": {
+    "name_cn": "手动设定主阀2",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1528": {
+    "name_cn": "手动设定主阀1",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1527": {
+    "name_cn": "手动控制主阀",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1526": {
+    "name_cn": "参考步数4 ",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1536": {
+    "name_cn": "微分时间",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1535": {
+    "name_cn": "积分时间",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1534": {
+    "name_cn": "比例带",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1533": {
+    "name_cn": "吸气过热修正",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1532": {
+    "name_cn": "低环高水主阀",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1531": {
+    "name_cn": "手动设定主阀4",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1530": {
+    "name_cn": "手动设定主阀3",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1539": {
+    "name_cn": "比例系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1538": {
+    "name_cn": "PID计算周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1537": {
+    "name_cn": "PID动作周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1550": {
+    "name_cn": "制热过热度4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1547": {
+    "name_cn": "制热过热度1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1546": {
+    "name_cn": "制冷转换温度2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1545": {
+    "name_cn": "制冷转换温度1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1544": {
+    "name_cn": "制冷过热度3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1543": {
+    "name_cn": "制冷过热度2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1542": {
+    "name_cn": "制冷过热度1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1541": {
+    "name_cn": "低环高水环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1540": {
+    "name_cn": "低环高水回温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1549": {
+    "name_cn": "制热过热度3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1548": {
+    "name_cn": "制热过热度2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1561": {
+    "name_cn": "强制开阀步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1560": {
+    "name_cn": "翅温限制关阀",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1558": {
+    "name_cn": "主阀排温控制",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1557": {
+    "name_cn": "参考开度系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1556": {
+    "name_cn": "停机归零延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1555": {
+    "name_cn": "制热转换环温4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1554": {
+    "name_cn": "制热转换环温3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1553": {
+    "name_cn": "制热转换环温2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1552": {
+    "name_cn": "制热转换环温1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1551": {
+    "name_cn": "制热过热度5",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1559": {
+    "name_cn": "初开环温系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1572": {
+    "name_cn": "经济过冷系数1",
+    "name_en": "E71",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1571": {
+    "name_cn": "经济过冷开阀",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1570": {
+    "name_cn": "经济过冷关阀",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1569": {
+    "name_cn": "经济过冷控制",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1568": {
+    "name_cn": "制冷阀后低2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1567": {
+    "name_cn": "制冷阀后低1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1600": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1566": {
+    "name_cn": "制热调阀系数3   ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1565": {
+    "name_cn": "制热调阀系数2   ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1564": {
+    "name_cn": "制热调阀系数1   ",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1563": {
+    "name_cn": "主阀强关蒸发温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1562": {
+    "name_cn": "主阀禁开大排温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1613": {
+    "name_cn": "制热辅最小开3",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1612": {
+    "name_cn": "制热辅最小开2",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1611": {
+    "name_cn": "制热辅最小开1",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1699": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1610": {
+    "name_cn": "最大运行步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1698": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1697": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1696": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1695": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1694": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1619": {
+    "name_cn": "排过修正a2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1618": {
+    "name_cn": "排过修正a1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1617": {
+    "name_cn": "排过修正系数k",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1616": {
+    "name_cn": "辅阀关闭转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1615": {
+    "name_cn": "辅阀开启转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1614": {
+    "name_cn": "制热辅最小开4",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1624": {
+    "name_cn": "控制表格类型",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1623": {
+    "name_cn": "制冷辅阀使用",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1622": {
+    "name_cn": "排过修正a5",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1621": {
+    "name_cn": "排过修正a4",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1620": {
+    "name_cn": "排过修正a3",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1629": {
+    "name_cn": "制热开辅环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1628": {
+    "name_cn": "手动设定辅阀4",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1627": {
+    "name_cn": "手动设定辅阀3",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1626": {
+    "name_cn": "手动设定辅阀2",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1625": {
+    "name_cn": "手动设定辅阀1",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1635": {
+    "name_cn": "辅阀开度2",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1634": {
+    "name_cn": "辅阀开度1",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1633": {
+    "name_cn": "开辅阀排温4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1632": {
+    "name_cn": "开辅阀排温3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1631": {
+    "name_cn": "开辅阀排温2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1630": {
+    "name_cn": "开辅阀排温1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1639": {
+    "name_cn": "制冷最小开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1638": {
+    "name_cn": "阀动作周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1637": {
+    "name_cn": "辅阀开度4",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1636": {
+    "name_cn": "辅阀开度3",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1646": {
+    "name_cn": "比例带",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1645": {
+    "name_cn": "排气目标下限",
+    "name_en": "E144",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1644": {
+    "name_cn": "排气目标上限",
+    "name_en": "E143",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1643": {
+    "name_cn": "辅阀输出比例",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1642": {
+    "name_cn": "制冷最大排温",
+    "name_en": "E141",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1641": {
+    "name_cn": "制冷最大开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1640": {
+    "name_cn": "制冷最小排温",
+    "name_en": "E139",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1649": {
+    "name_cn": "计算周期",
+    "name_en": "E148",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1648": {
+    "name_cn": "微分时间",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1647": {
+    "name_cn": "积分时间",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1660": {
+    "name_cn": "制冷开辅环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1657": {
+    "name_cn": "比例系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1656": {
+    "name_cn": "关辅阀排温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1655": {
+    "name_cn": "修正过热高排2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1654": {
+    "name_cn": "修正过热高排1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1653": {
+    "name_cn": "强开大排温差2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1652": {
+    "name_cn": "强开大排温差1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1651": {
+    "name_cn": "辅强关小比例",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1650": {
+    "name_cn": "辅强开大比例",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1659": {
+    "name_cn": "修正过热低排2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1658": {
+    "name_cn": "修正过热低排1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1671": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1670": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1668": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1667": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1700": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1666": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1665": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1664": {
+    "name_cn": "排过修正系数k2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1663": {
+    "name_cn": "排过修正b3",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1662": {
+    "name_cn": "排过修正b2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1661": {
+    "name_cn": "排过修正b1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1669": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1682": {
+    "name_cn": "开空调泵延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1681": {
+    "name_cn": "膨胀阀拓展参数数值",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1680": {
+    "name_cn": "膨胀阀拓展参数序号",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1679": {
+    "name_cn": "经济过冷低水",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1678": {
+    "name_cn": "经济过冷系数4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1677": {
+    "name_cn": "经济过冷系数3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1676": {
+    "name_cn": "阀后控制回差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1675": {
+    "name_cn": "阀后控制温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1674": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1673": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1672": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1693": {
+    "name_cn": "下回泵运行时间",
+    "name_en": "P12",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1692": {
+    "name_cn": "开下回泵间隔",
+    "name_en": "P11",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1691": {
+    "name_cn": "下回泵开启水温",
+    "name_en": "P10",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1690": {
+    "name_cn": "开回水水箱温度",
+    "name_en": "P09",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1602": {
+    "name_cn": "辅路电膨",
+    "name_en": "E101",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1601": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1689": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1688": {
+    "name_cn": "二次泵模式",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1687": {
+    "name_cn": "泵间歇关时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1686": {
+    "name_cn": "泵间歇开时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1685": {
+    "name_cn": "水流不足开泵",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1684": {
+    "name_cn": "水泵运行模式",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1683": {
+    "name_cn": "关空调泵延时",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1609": {
+    "name_cn": "最小运行步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1608": {
+    "name_cn": "初始开度",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1607": {
+    "name_cn": "制热辅最小开",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1606": {
+    "name_cn": "上电归零开度",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1605": {
+    "name_cn": "膨胀阀总步数",
+    "name_en": "",
+    "unit": "N",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1604": {
+    "name_cn": "励磁频率",
+    "name_en": "E103",
+    "unit": "pps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1603": {
+    "name_cn": "励磁方式",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1734": {
+    "name_cn": "限出水转换环",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1733": {
+    "name_cn": "基准出水",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1732": {
+    "name_cn": "限出水环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1731": {
+    "name_cn": "制热下限",
+    "name_en": "Heating_min",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1730": {
+    "name_cn": "制热出温过高",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1739": {
+    "name_cn": "PID微分系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1738": {
+    "name_cn": "PID积分系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1737": {
+    "name_cn": "PID比例系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1736": {
+    "name_cn": "限出温系数2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1735": {
+    "name_cn": "限出温系数1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1745": {
+    "name_cn": "水温补偿系数1",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1744": {
+    "name_cn": "冷启动补偿水温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1743": {
+    "name_cn": "热启动补偿水温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1742": {
+    "name_cn": "转速调节单位",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1741": {
+    "name_cn": "加载周期系数",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1740": {
+    "name_cn": "节能加载周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1749": {
+    "name_cn": "制热设定温度",
+    "name_en": "Heating set",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1748": {
+    "name_cn": "水温补偿系数3",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1747": {
+    "name_cn": "水温补偿系数3",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1746": {
+    "name_cn": "水温补偿系数2",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1756": {
+    "name_cn": "排水保持时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1755": {
+    "name_cn": "排水间隔时间",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1754": {
+    "name_cn": "补水停止回差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1753": {
+    "name_cn": "补水启动回差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1752": {
+    "name_cn": "热水设定温度",
+    "name_en": "Water set",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1751": {
+    "name_cn": "恒温设定温度",
+    "name_en": "Auto set",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1750": {
+    "name_cn": "制冷设定温度",
+    "name_en": "Cooling set",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1759": {
+    "name_cn": "水温补偿系数6",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1758": {
+    "name_cn": "水温补偿系数5",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1757": {
+    "name_cn": "保持偏差",
+    "name_en": "M56",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1770": {
+    "name_cn": "制热转速2",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1767": {
+    "name_cn": "国标调试设置",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1800": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1766": {
+    "name_cn": "总出水温度修正值",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1765": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1764": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1763": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1762": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1761": {
+    "name_cn": "强制预热时间",
+    "name_en": "M60",
+    "unit": "′",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1760": {
+    "name_cn": "低温预热环温",
+    "name_en": "M59",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1769": {
+    "name_cn": "制热转速1",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1768": {
+    "name_cn": "干球温度补偿",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1781": {
+    "name_cn": "制冷过热1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1780": {
+    "name_cn": "制冷转速4",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1778": {
+    "name_cn": "制冷转速2",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1777": {
+    "name_cn": "制冷转速1",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1776": {
+    "name_cn": "制热过热4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1775": {
+    "name_cn": "制热过热3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1774": {
+    "name_cn": "制热过热2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1773": {
+    "name_cn": "制热过热1",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1772": {
+    "name_cn": "制热转速4",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1771": {
+    "name_cn": "制热转速3",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1779": {
+    "name_cn": "制冷转速3",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1792": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1791": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1790": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1701": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1789": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1788": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1787": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1786": {
+    "name_cn": "制热标况过热",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1785": {
+    "name_cn": "制热标况转速",
+    "name_en": "",
+    "unit": "rps",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1784": {
+    "name_cn": "制冷过热4",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1783": {
+    "name_cn": "制冷过热3",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1782": {
+    "name_cn": "制冷过热2",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1709": {
+    "name_cn": "低温开底盘热",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1708": {
+    "name_cn": "底盘热开启",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1707": {
+    "name_cn": "辅热延时启动",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1706": {
+    "name_cn": "辅热开启环温",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1705": {
+    "name_cn": "连续运行停机",
+    "name_en": "",
+    "unit": "min",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1704": {
+    "name_cn": "压机最少运行",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1703": {
+    "name_cn": "防频繁启动 ",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1702": {
+    "name_cn": "变频压机急停",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1712": {
+    "name_cn": "最大预热掉电",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1711": {
+    "name_cn": "最小预热掉电",
+    "name_en": "/",
+    "unit": "h",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1799": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1710": {
+    "name_cn": "预热环境温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1798": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1797": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1796": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1795": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1794": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1793": {
+    "name_cn": "Reserve",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1719": {
+    "name_cn": "常规加载偏差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1718": {
+    "name_cn": "同调压机比例",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1717": {
+    "name_cn": "能量同调周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1716": {
+    "name_cn": "能量计算周期",
+    "name_en": "",
+    "unit": "s",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1715": {
+    "name_cn": "能调控制算法",
+    "name_en": "",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1714": {
+    "name_cn": "最大预热时间",
+    "name_en": "",
+    "unit": "h",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1713": {
+    "name_cn": "最小预热时间",
+    "name_en": "M12",
+    "unit": "h",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1723": {
+    "name_cn": "热水下限温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1722": {
+    "name_cn": "热水上限温度",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1721": {
+    "name_cn": "首次全开温差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1720": {
+    "name_cn": "常规卸载偏差",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1729": {
+    "name_cn": "制热回温上限",
+    "name_en": "Heating max",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1728": {
+    "name_cn": "制冷出温下限",
+    "name_en": "",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1727": {
+    "name_cn": "制冷回温下限",
+    "name_en": "Cooling min",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1726": {
+    "name_cn": "制冷上限",
+    "name_en": "Cooling max",
+    "unit": "℃",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1725": {
+    "name_cn": "静音风速系数",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "1724": {
+    "name_cn": "节能转速比例",
+    "name_en": "",
+    "unit": "%",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6021": {
+    "name_cn": "ICCID码19～20",
+    "name_en": "ICCID_19～20",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6020": {
+    "name_cn": "ICCID码17～18",
+    "name_en": "ICCID_17～18",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6012": {
+    "name_cn": "ICCID码1～2",
+    "name_en": "ICCID_1~2",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6023": {
+    "name_cn": "Resveve",
+    "name_en": "6023",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6022": {
+    "name_cn": "线控器版本号",
+    "name_en": "6022",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6014": {
+    "name_cn": "ICCID码5～6",
+    "name_en": "ICCID_5~6",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6013": {
+    "name_cn": "ICCID码3～4",
+    "name_en": "ICCID_3~4",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6024": {
+    "name_cn": "OTA状态",
+    "name_en": "6024",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6016": {
+    "name_cn": "ICCID码9～10",
+    "name_en": "ICCID_9~10",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6027": {
+    "name_cn": "经度高位",
+    "name_en": "longitude_H",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6015": {
+    "name_cn": "ICCID码7～8",
+    "name_en": "ICCID_7~8",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6030": {
+    "name_cn": "纬度低位",
+    "name_en": "latitude_L",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6018": {
+    "name_cn": "ICCID码13～14",
+    "name_en": "ICCID_13~14",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6029": {
+    "name_cn": "纬度高位",
+    "name_en": "latitude_H",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6017": {
+    "name_cn": "ICCID码11～12",
+    "name_en": "ICCID_11~12",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6028": {
+    "name_cn": "经度低位",
+    "name_en": "longitude_L",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  },
+  "6019": {
+    "name_cn": "ICCID码15～16",
+    "name_en": "ICCID_15~16",
+    "unit": "",
+    "valid_pct": 0.0,
+    "min": null,
+    "max": null,
+    "mean": null,
+    "mapped": true
+  }
+}
